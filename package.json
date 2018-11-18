@@ -1,0 +1,28 @@
+{
+  "name": "telegramnotes",
+  "version": "1.0.0",
+  "description": "Telegram notes bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheCuttingEdge/TelegramNotes.git"
+  },
+  "keywords": [
+    "telegram",
+    "bot",
+    "node",
+    "notes"
+  ],
+  "author": "ivanets",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TheCuttingEdge/TelegramNotes/issues"
+  },
+  "homepage": "https://github.com/TheCuttingEdge/TelegramNotes#readme",
+  "dependencies": {
+    "telegraf": "^3.25.0"
+  }
+}
